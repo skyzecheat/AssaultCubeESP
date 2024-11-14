@@ -1,4 +1,4 @@
-discord : skyzecheat
+discord : skyzehook
 
 Project Settings:
 Debug - x64 |
